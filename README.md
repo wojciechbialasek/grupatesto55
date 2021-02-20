@@ -5,3 +5,7 @@ dodawanie nowego feature logowanie
 
 developer2
 pole nazwisko
+
+developer1
+Imie
+
