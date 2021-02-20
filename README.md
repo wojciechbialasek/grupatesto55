@@ -12,3 +12,5 @@ Imie
 developer3
 Urodziny
 
+
+ok działa - magda
