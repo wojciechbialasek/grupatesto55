@@ -2,3 +2,6 @@
 
 
 dodawanie nowego feature logowanie
+
+developer1
+Imie
