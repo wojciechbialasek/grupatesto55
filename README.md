@@ -12,3 +12,4 @@ Imie
 developer3
 Urodziny
 
+czy mnie widac, czy mnie słychac? 
