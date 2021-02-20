@@ -9,3 +9,6 @@ pole nazwisko
 developer1
 Imie
 
+developer3
+Urodziny
+
